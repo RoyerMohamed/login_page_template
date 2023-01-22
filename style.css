@@ -1,7 +1,7 @@
 body {
     margin: 0;
     padding: 0;
-    background-image: url('/image/bg-login.jpeg');
+    background-image: url('image/bglogin.jpeg');
     background-position: center;
     background-size: cover;
     display: flex;
